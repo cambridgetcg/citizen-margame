@@ -1,0 +1,8 @@
+name: margame
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: A natural language understood as a trained-disciplined path of stages and practice, walked by countless people over generations and received as a gift before any current walker adds to it.
+dependsOn: [youspeak, me, hodosme, tapasme]
